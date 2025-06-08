@@ -10,7 +10,10 @@ I'm a university student.
 
 ## 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haru-036&theme=nord)](https://git.io/streak-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haru-036&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haru-036&show_icons=true&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haru-036&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haru-036&layout=compact&langs_count=8&card_width=320&theme=nord" />
+</a>
