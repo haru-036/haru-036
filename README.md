@@ -1,4 +1,4 @@
-## 𝙷𝚒 𝚃𝚑𝚎𝚛𝚎
+## Hi There!
 
 **Haru**  
 I'm a university student.
@@ -8,7 +8,7 @@ I'm a university student.
 [![About me](https://skillicons.dev/icons?i=vscode,nodejs,ts,express,tailwindcss,nextjs,react,figma)](https://skillicons.dev)
 
 
-## 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜
+## Activities
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haru-036&theme=nord)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
